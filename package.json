@@ -1,5 +1,5 @@
 {
-  "name": "connect-jugglingdb",
+  "name": "connect-jugglingdb-ex4",
   "version": "0.0.3",
   "description": "JugglingDB session store for Connect",
   "keywords": ["connect", "session", "express"],
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kapouer/connect-jugglingdb.git"
+    "url": "git://github.com/napejs/connect-jugglingdb-ex4.git"
   },
   "author": "Jérémy Lal <kapouer@melix.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kapouer/connect-jugglingdb/issues"
+    "url": "https://github.com/napejs/connect-jugglingdb-ex4/issues"
   }
 }
