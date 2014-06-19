@@ -17,7 +17,7 @@ function noop() {}
 
 module.exports = function(connect) {
 	"use strict";
-	var Store = connect.session.Store;
+	var Store = connect.Store || connect.session.Store;
 
 	/**
 	 * Initialize JugglingStore with the given `options`.
