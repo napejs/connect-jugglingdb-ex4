@@ -1,7 +1,7 @@
 {
   "name": "connect-jugglingdb-ex4",
   "version": "0.0.3",
-  "description": "JugglingDB session store for Connect",
+  "description": "JugglingDB session store for Connect EX4 compatible",
   "keywords": ["connect", "session", "express"],
   "main": "index.js",
   "scripts": {
